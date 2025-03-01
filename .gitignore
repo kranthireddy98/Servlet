@@ -1,11 +1,39 @@
-# Ignore compiled Java files
+# Compiled files
 *.class
 
-# Ignore logs
+# Log files
 *.log
 
-
-
-# Ignore IDE settings
-.vscode/
+# IntelliJ IDEA
 .idea/
+*.iml
+out/
+target/
+
+# Maven / Gradle
+*.jar
+*.war
+*.ear
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Folders
+.vscode/
+*.suo
+*.user
+*.dbmdl
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+*.lock
+*.~*
+
+# Tomcat Files
+tomcat.log
+work/
+
+*.metadata/
