@@ -73,3 +73,4 @@ click --> request to Tom cat --> look for --> web.xml(confugration)
 19. Filters -->Filter Chaining
 20. Session > cookies
 	--> HttpSession
+21. cache
