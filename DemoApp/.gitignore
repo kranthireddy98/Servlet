@@ -35,3 +35,4 @@ Thumbs.db
 # Tomcat Files
 tomcat.log
 work/
+/build/
